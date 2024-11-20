@@ -3,7 +3,7 @@
 
 A responsive React application for managing user information. This application supports adding, editing, deleting, and viewing users with pagination. The application fetches initial user data from an API and allows CRUD operations on users locally.
 
-![Output Screenshot](./output-screenshot.png) <!-- Replace with the actual path to your output image -->
+![alt text](image.png) <!-- Replace with the actual path to your output image -->
 
 ---
 
@@ -76,7 +76,7 @@ react-user-management/
 
 ## Output Screenshot
 
-![Output](./output-screenshot.png)![alt text](image.png) <!-- Add your screenshot here -->
+![alt text](image.png)
 
 ---
 
